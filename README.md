@@ -31,7 +31,7 @@ johnson = {
     "name"      : "Johnson Christopher Hassan",
     "role"      : "Full-Stack + AI Engineer (in progress)",
     "education" : "Computer Engineering @ MUST, Tanzania 🇹🇿",
-    "location"  : "Dar es Salaam / Mbeya, Tanzania",
+    "location"  : "Arusha/ Mbeya, Tanzania",
     "org"       : "Founder @ Flux-Builders",
     "mindset"   : "Build real things. Not just tutorials.",
     "mission"   : "Use AI to solve African problems",
