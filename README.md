@@ -46,101 +46,7 @@ johnson = {
 
 <br clear="right"/>
 
----
 
-## `> ls -la /projects`
-
-<!-- PROJECT CARDS -->
-<div align="center">
-
-### 🌿 AgroScan+ — *Flagship Project*
-
-</div>
-
-> **AI-powered maize disease detection for Tanzanian farmers** — trained on 18,000+ Tanzanian smartphone images (NM-AIST/TARI dataset). Speaks Swahili. Works offline. Costs $0.
-
-<div align="center">
-
-| Layer | Stack | Status |
-|:---|:---|:---|
-| ML Model | MobileNetV2 + TensorFlow | 🟡 Training (Apr 2026) |
-| Backend | FastAPI + Python | 🟡 Building (Apr 2026) |
-| Frontend | Next.js 14 + TypeScript | 🟡 Building (May 2026) |
-| Database | Supabase PostgreSQL | 🟡 Building (May 2026) |
-| Competition | MUST Innovation Competition | 📅 May 15, 2026 |
-
-</div>
-
-```
-Farmer takes photo → AI diagnoses in 2 seconds
-→ Result in Swahili + English
-→ Voice reads it aloud (sw-TZ)
-→ Map shows nearest agro-dealer
-→ Works offline (TF.js browser fallback)
-Total cost to farmer: $0
-```
-
-[![AgroScan+ Repo](https://img.shields.io/badge/View%20Repo-AgroScan%2B-00C853?style=for-the-badge&logo=github)](https://github.com/johnson2006christopher/agroscan-plus)
-
----
-
-<table>
-<tr>
-<td width="50%">
-
-### 💰 Wealth Pilot
-> Full-stack financial dashboard built with TypeScript. Tracks income, expenses, and savings goals with real-time charts and analytics.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/GitHub-View-161b22?style=flat&logo=github)](https://github.com/johnson2006christopher/wealth-pilot)
-[![Live](https://img.shields.io/badge/Live-Demo-00C853?style=flat&logo=vercel)](https://wealth-pilot.vercel.app)
-
-</td>
-<td width="50%">
-
-### ⚡ Neural Task
-> AI-powered productivity tool built with Flux-Builders. FastAPI + React + TypeScript. Smart task management with AI suggestions.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/GitHub-View-161b22?style=flat&logo=github)](https://github.com/Flux-Builders/neural-task)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📸 Instagram Clone
-> Full-stack social media clone with photo uploads, likes, comments, and follow system. Built to learn production patterns.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/GitHub-View-161b22?style=flat&logo=github)](https://github.com/johnson2006christopher/instagram-clone)
-
-</td>
-<td width="50%">
-
-### 🏠 Hostel Hub
-> Full-stack hostel management system for Tanzanian universities. Built over 2 months — my first shipped product.
-
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/GitHub-View-161b22?style=flat&logo=github)](https://github.com/johnson2006christopher)
-
-</td>
-</tr>
-</table>
-
----
 
 ## `> cat tech_stack.json`
 
@@ -189,15 +95,6 @@ Total cost to farmer: $0
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=johnson2006christopher&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&border_radius=12" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=johnson2006christopher&theme=radical&hide_border=true&border_radius=12" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnson2006christopher&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=12" width="40%" />
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnson2006christopher&theme=react-dark&hide_border=true&area=true&color=00C853&line=2E7D52&point=00C853&area_color=1B6B3A" width="98%" />
 
 </div>
@@ -219,41 +116,7 @@ Total cost to farmer: $0
 
 </div>
 
----
 
-## `> cat roadmap.md`
-
-```
-2026 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  Q1 ── [NOW]
-         ✅ Kaggle dataset uploaded (NM-AIST Tanzania)
-         ✅ System design document complete
-         ✅ Kaggle training notebook ready
-         📖 Sitting semester exams @ MUST
-
-  Q2 ── [BUILDING]
-         🌿 Apr  →  Train AgroScan+ model on T4 x2 GPU
-         🌿 Apr  →  FastAPI backend + /predict endpoint
-         🌿 May  →  Next.js frontend + Swahili voice + dealer map
-         🏆 May 15  →  MUST Innovation Competition — PRESENTATION DAY
-
-  Q3 ── [SCALE]
-         🤖 Aug  →  Neural Tech Africa IPT
-         🔧 Aug  →  Rebuild AgroScan+ v2 with improved architecture
-         📦 Sep  →  Daktari AI (next product concept)
-
-2027+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  → LeetCode (Python) — consistent DSA practice
-  → System Design — large-scale distributed systems
-  → Contribute to open-source African tech
-  → First paid engineering opportunity
-  → [DREAM] SWE / AI Engineer @ Google or xAI
-  → [DREAM] Own company solving African problems
-```
-
----
 
 ## `> top --sort-by=contribution`
 
