@@ -118,15 +118,6 @@ johnson = {
 
 
 
-## `> top --sort-by=contribution`
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=johnson2006christopher&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
-
-</div>
-
----
 
 ## `> fortune | cowsay`
 
