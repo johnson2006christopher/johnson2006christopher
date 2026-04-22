@@ -32,13 +32,9 @@ johnson = {
     "role"      : "Full-Stack + AI Engineer (in progress)",
     "education" : "Computer Engineering @ MUST, Tanzania 🇹🇿",
     "location"  : "Arusha/ Mbeya, Tanzania",
-    "org"       : "Founder @ Flux-Builders",
+    "org"       : "CTO @ BLECA SmartLabs",
     "mindset"   : "Build real things. Not just tutorials.",
     "mission"   : "Use AI to solve African problems",
-
-    "currently_building" : "AgroScan+ — AI crop disease detection for Tanzanian farmers",
-    "training"           : ["Next.js 14", "FastAPI", "TensorFlow", "Supabase"],
-    "superpower"         : "Turning complex ideas into shipped products",
 
     "fun_fact"  : "1st-year student building competition-grade AI systems 🚀",
 }
