@@ -1,268 +1,459 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0A3622,60:145A32,100:1E8449&height=220&section=header&text=Johnson%20Christopher%20Hassan&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%7C%20Open-Source%20Builder%20%7C%20Computer%20Engineering%20%40%20MUST%20🇹🇿&descAlignY=58&descSize=15&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0A0F0A,60:0D2818,100:0A3622&height=280&section=header&text=JOHNSON%20CHRISTOPHER%20HASSAN&fontSize=38&fontColor=00FF88&fontAlignY=38&desc=AI%20Research%20Engineer%20%E2%80%A2%20Edge%20Systems%20%E2%80%A2%20Tanzania%20%F0%9F%87%B9%F0%9F%87%BF&descAlignY=58&descSize=14&animation=fadeIn&stroke=00FF88&strokeWidth=1" width="100%" />
+
+</div>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██╗ ██████╗██╗  ██╗     ██████╗ ███████╗ ██████╗ ██████╗ ██╗███╗   ██╗   ║
+║   ██║██╔════╝██║  ██║    ██╔═══██╗██╔════╝██╔════╝██╔════╝ ██║████╗  ██║   ║
+║   ██║██║     ███████║    ██║   ██║█████╗  ██║  ███╗██║  ███╗██║██╔██╗ ██║   ║
+║   ██║██║     ██╔══██║    ██║   ██║██╔══╝  ██║   ██║██║   ██║██║██║╚██╗██║   ║
+║   ██║╚██████╗██║  ██║    ╚██████╔╝███████╗╚██████╔╝╚██████╔╝██║██║ ╚████║   ║
+║   ╚═╝ ╚═════╝╚═╝  ╚═╝     ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝╚═╝  ╚═══╝   ║
+║                                                                              ║
+║              [ MBEYA, TANZANIA → GLOBAL AI INFRASTRUCTURE ]                 ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=1E8449&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=Building+AdaptShot+%E2%80%94+few-shot+AI+for+resource-constrained+environments;Learning+by+shipping.+Building+in+public.;Python+%7C+PyTorch+%7C+FastAPI+%7C+Embedded+Systems;1st-year+student.+Real+impact.+Open+science.;Mission%3A+Make+AI+work+where+it%27s+needed+most." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=700&color=00FF88&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=40&lines=⬡+Building+AI+infrastructure+for+the+next+billion+users;⬡+ExamGuard+AI+%E2%80%94+Edge+inference.+98%25+data+reduction.+Zero+compromise;⬡+AdaptShot+%E2%80%94+Few-shot+vision+that+runs+on+a+2015+Intel+CPU;⬡+Africa+doesn%27t+need+permission+to+build+the+future;⬡+Incoming+AI+Engineering+Intern+%40+Neurotech+Africa+(Aug+2026)" alt="Typing SVG" />
 </a>
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=johnson2006christopher&style=flat-square&color=00FF88&label=UPLINK+REQUESTS)](https://github.com/johnson2006christopher)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/johnson2006christopher?style=flat-square&color=00AA55&label=NETWORK+NODES)](https://github.com/johnson2006christopher)
+&nbsp;
+![Status](https://img.shields.io/badge/STATUS-BUILDING-00FF88?style=flat-square)
+&nbsp;
+![Location](https://img.shields.io/badge/NODE-MBEYA%2C%20TZ-0A3622?style=flat-square)
+&nbsp;
+![Mission](https://img.shields.io/badge/MISSION-AFRICAN%20AI%20INFRA-145A32?style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+## `[ MISSION CONTROL ]`
+
+</div>
+
+```python
+#!/usr/bin/env python3
+# operator: johnson_christopher_hassan
+# clearance: FOUNDER | AI RESEARCH LEAD | EDGE SYSTEMS
+
+class Operator:
+    identity    = "Johnson Christopher Hassan"
+    designation = "AI Research Engineer · Edge Systems Architect · Founder"
+    base        = "Mbeya, Tanzania 🇹🇿"
+    education   = "Computer Engineering — MUST (Mbeya University of Science & Technology)"
+    languages   = ["Python", "TypeScript", "JavaScript", "C++", "Swahili", "English"]
+
+    active_ops  = {
+        "flagship"  : "ExamGuard AI  →  Edge-powered academic integrity @ MUST Innovation Week",
+        "research"  : "AdaptShot     →  CPU-first few-shot vision library (v0.1.1 shipped)",
+        "incoming"  : "Neurotech Africa  →  AI Engineering Internship (Aug 2026)",
+        "venture"   : "BLECA SmartLabs  →  Head of AI Research & Development",
+    }
+
+    directives  = [
+        "AI must work where it's needed most — not just well-funded labs",
+        "Honest uncertainty builds more trust than confident hallucination",
+        "Ship constrained. Document failures. Open-source everything.",
+        "Africa is not a use-case. Africa is a civilization building its tools.",
+    ]
+
+    endgame     = "Engineer world-class AI infrastructure originating from Africa."
+```
+
+---
+
+<div align="center">
+
+## `[ SYSTEM STATUS — ACTIVE OPERATIONS ]`
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ `ExamGuard AI`
+**Edge-Powered Academic Integrity Platform**
+
+```
+STATUS ━━━━━━━━━━━━━━━━━━━ LIVE DEMO
+VENUE  ━━━━━━━━━━━━━━ MUST INNOVATION WEEK
+DATES  ━━━━━━━━━━━━━━━━━━━ JUNE 8–12, 2026
+```
+
+The problem: university proctoring burns **2GB/hr** in cloud video streams. Unworkable in Tanzania.
+
+The solution: move everything **to the edge**.
+
+| Metric | Value |
+|--------|-------|
+| Data reduction | **98%** |
+| Bandwidth usage | **< 15MB/hr** |
+| Inference location | **Client-side** |
+| Detection engine | **YOLOv8 (local)** |
+| Connectivity required | **None (offline-first)** |
+
+> *"Secure examinations shouldn't require a fibre connection."*
+
+</td>
+<td width="50%" valign="top">
+
+### 🌿 `AdaptShot v0.1.1`
+**Human-Aligned Few-Shot Vision for the Edge**
+
+```
+STATUS ━━━━━━━━━━━━━━━━━━━━━━━ SHIPPED
+DOCS   ━━━━━━━━━━━━━━━━ 11-CHAPTER SPEC
+TYPE   ━━━━━━━━━━━━ OPEN-SOURCE LIBRARY
+```
+
+Assumes: **no GPU cluster.** Works in: a rural clinic, a low-spec phone, a classroom with no internet.
+
+| Metric | Value |
+|--------|-------|
+| Backbone | **Frozen ResNet-18** |
+| Search engine | **FAISS-CPU** |
+| Peak RAM | **< 250MB** |
+| p95 Latency | **< 50ms on Intel CPU** |
+| Calibration | **Temperature scaling + ECE** |
+
+> *"Few-shot learning that learns from every human correction."*
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `[ RESEARCH LABORATORY ]`
+
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  DOMAIN MAP                                                                 │
+│                                                                             │
+│  COMPUTER VISION ──────────┬── Object Detection (YOLO family)              │
+│                            ├── Few-Shot Classification (AdaptShot)         │
+│                            └── Uncertainty Calibration (ECE / Temp Scale)  │
+│                                                                             │
+│  EDGE AI ──────────────────┬── CPU-first inference pipelines               │
+│                            ├── Model compression & quantization             │
+│                            └── Offline-first deployment architectures       │
+│                                                                             │
+│  SYSTEMS ──────────────────┬── Low-bandwidth protocol design               │
+│                            ├── Local LLM & RAG architectures               │
+│                            └── Distributed AI for constrained hardware     │
+│                                                                             │
+│  APPLIED AI ───────────────┬── African NLP & language modelling            │
+│                            ├── AgriTech (crop disease detection)           │
+│                            └── HealthTech (diagnostic AI for clinics)      │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## `[ BUILDER DASHBOARD — TECH STACK ]`
+
+</div>
+
+<div align="center">
+
+**// CORE LANGUAGES //**
+
+![Python](https://img.shields.io/badge/Python-0A0F0A?style=for-the-badge&logo=python&logoColor=00FF88)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0F0A?style=for-the-badge&logo=typescript&logoColor=00FF88)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0F0A?style=for-the-badge&logo=javascript&logoColor=00FF88)
+![C++](https://img.shields.io/badge/C++-0A0F0A?style=for-the-badge&logo=cplusplus&logoColor=00FF88)
+
+**// AI & ML STACK //**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0A0F0A?style=for-the-badge&logo=pytorch&logoColor=00FF88)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-0A0F0A?style=for-the-badge&logo=yolo&logoColor=00FF88)
+![FAISS](https://img.shields.io/badge/FAISS-0A0F0A?style=for-the-badge&logo=meta&logoColor=00FF88)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0A0F0A?style=for-the-badge&logo=huggingface&logoColor=00FF88)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0A0F0A?style=for-the-badge&logo=scikitlearn&logoColor=00FF88)
+![OpenCV](https://img.shields.io/badge/OpenCV-0A0F0A?style=for-the-badge&logo=opencv&logoColor=00FF88)
+
+**// BACKEND & INFRA //**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0F0A?style=for-the-badge&logo=fastapi&logoColor=00FF88)
+![Node.js](https://img.shields.io/badge/Node.js-0A0F0A?style=for-the-badge&logo=nodedotjs&logoColor=00FF88)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0F0A?style=for-the-badge&logo=postgresql&logoColor=00FF88)
+![Redis](https://img.shields.io/badge/Redis-0A0F0A?style=for-the-badge&logo=redis&logoColor=00FF88)
+![Docker](https://img.shields.io/badge/Docker-0A0F0A?style=for-the-badge&logo=docker&logoColor=00FF88)
+
+**// FRONTEND //**
+
+![Next.js](https://img.shields.io/badge/Next.js-0A0F0A?style=for-the-badge&logo=nextdotjs&logoColor=00FF88)
+![React](https://img.shields.io/badge/React-0A0F0A?style=for-the-badge&logo=react&logoColor=00FF88)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0A0F0A?style=for-the-badge&logo=tailwindcss&logoColor=00FF88)
+
+</div>
+
+---
+
+<div align="center">
+
+## `[ OPEN SOURCE ECOSYSTEM ]`
+
+</div>
+
+```
+johnson2006christopher/
+│
+├── 🌿 AdaptShot/                        [PUBLIC · MAINTAINED]
+│   ├── CPU-first few-shot vision library
+│   ├── Frozen ResNet-18 + FAISS-CPU backend
+│   ├── Human-in-the-loop correction system
+│   ├── Calibrated uncertainty (ECE + temperature scaling)
+│   └── v0.1.1 released · 11-chapter documentation · benchmarked
+│
+├── 🛡️ ExamGuard-AI/                     [PRIVATE → PUBLIC Q3 2026]
+│   ├── Local YOLOv8 inference engine
+│   ├── Offline-first examination integrity platform
+│   ├── Browser-native activity tracking (no cloud)
+│   └── 98% data reduction vs. cloud proctoring
+│
+└── 📡 [UPCOMING · STEALTH]
+    ├── Swahili-first RAG advisory engine
+    ├── Mkopo Score — alternative credit scoring, Tanzania
+    └── ShambaNI — multimodal AgriTech AI for smallholder farmers
+```
+
+---
+
+<div align="center">
+
+## `[ ENGINEERING TIMELINE ]`
+
+</div>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  2022 ──┬── Joined E3Empower Africa · Began teaching Python to students
+         └── First hardware-software integration workshop (Arduino + embedded)
+
+  2023 ──┬── 🏅 Best Project of the Year · Projekt Inspire 2023
+         └── Scaled to 500+ students across Tanzanian schools
+
+  2024 ──┬── Transitioned to full-stack AI engineering
+         └── Started building production-grade ML pipelines
+
+  2025 ──┬── 🥇 1st Place · University Innovation Competition (Navigation System)
+         ├── Reached 1,000+ students mentored across 10 schools
+         └── MUST · Computer Engineering enrolment
+
+  2026 ──┬── 🔬 Founded BLECA SmartLabs · Head of AI Research & Dev
+    Q1   ├── Architected ExamGuard AI (YOLOv8 edge inference, 98% data cut)
+    Q2   ├── Shipped AdaptShot v0.1.1 (open-source · CPU-first · fully documented)
+         ├── 🛡️ ExamGuard AI → MUST Research & Innovation Week (June 8–12)
+    Q3   └── Incoming AI Engineering Intern @ Neurotech Africa (August 2026)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+<div align="center">
+
+## `[ CURRENT OBJECTIVES — JUNE 2026 ]`
+
+</div>
+
+```bash
+#!/bin/bash
+# SPRINT: MUST INNOVATION WEEK + Q3 EXECUTION
+
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "  PRIORITY QUEUE — JUNE 2026"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+./deploy_examguard_demo.sh \
+  --event "MUST Research & Innovation Week" \
+  --dates "June 8-12, 2026" \
+  --mode  "live-demo-station"
+
+python3 adaptshot/roadmap.py \
+  --target    v0.2.0 \
+  --features  "multi-modal, CLIP backbone, expanded benchmarks" \
+  --eta       Q3_2026
+
+python3 -m research.new_project \
+  --codename  "ShambaNI" \
+  --domain    "AgriTech · Swahili-first · multimodal" \
+  --hardware  "low-spec Android + USSD fallback"
+
+cd /career/neurotech_africa && make onboarding_prep \
+  --start "August 2026" \
+  --focus "African NLP · Production ML Deployment"
+
+echo "STATUS: EXECUTING ✓"
+```
+
+---
+
+<div align="center">
+
+## `[ FUTURE ROADMAP — 5-YEAR TRAJECTORY ]`
+
+</div>
+
+```
+2026 ├── Graduate ExamGuard AI from demo → university deployment
+     ├── AdaptShot v0.2 with multi-modal backbone
+     ├── Neurotech Africa internship → production NLP systems
+     └── Ship first Swahili-language AI product
+
+2027 ├── Publish research on edge AI for low-resource environments
+     ├── Launch AgriTech AI product across East African smallholder farms
+     └── BLECA SmartLabs → first external funding or revenue
+
+2028 ├── Build open-source African NLP foundation model
+     ├── Mkopo Score → alternative credit infrastructure, Tanzania
+     └── Expand to regional university deployment (East Africa)
+
+2029 ├── Establish AI research lab at African university partnership
+     └── Series A for core AI infrastructure company
+
+2031 └── World-class AI company headquartered in Africa.
+         Products used by 10M+ people across the continent.
+         Built here. For here. Scalable everywhere.
+```
+
+---
+
+<div align="center">
+
+## `[ GITHUB METRICS ]`
+
+</div>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=johnson2006christopher&show_icons=true&theme=chartreuse-dark&bg_color=0A0F0A&border_color=0A3622&title_color=00FF88&text_color=88FFBB&icon_color=00FF88&include_all_commits=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnson2006christopher&layout=compact&theme=chartreuse-dark&bg_color=0A0F0A&border_color=0A3622&title_color=00FF88&text_color=88FFBB&langs_count=8" />
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=johnson2006christopher&theme=dark&background=0A0F0A&border=0A3622&ring=00FF88&fire=00CC66&currStreakLabel=00FF88&sideLabels=88FFBB&currStreakNum=ffffff&sideNums=ffffff&dates=444444" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=johnson2006christopher&style=for-the-badge&color=1E8449&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/johnson2006christopher?style=for-the-badge&color=145A32&label=FOLLOWERS" />
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20To%20Internships-1E8449?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Location-Tanzania%20🇹🇿-0A3622?style=for-the-badge" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=johnson2006christopher&bg_color=0A0F0A&color=00FF88&line=0A3622&point=00FF88&area=true&area_color=0A3622&hide_border=true" />
 
 </div>
 
 ---
-
-## `> whoami`
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-
-```python
-johnson = {
-    "name"        : "Johnson Christopher Hassan",
-    "title"       : "AI Engineer & Open-Source Builder",
-    "education"   : "Computer Engineering @ MUST, Tanzania",
-    "location"    : "Mbeya, Tanzania 🇹🇿",
-    "languages"   : ["Python", "TypeScript", "JavaScript", "C++", "C"],
-    "focus"       : ["Few-Shot Learning", "Calibrated AI", "Edge Deployment"],
-    "flagship"    : "AdaptShot — CPU-first, human-in-the-loop few-shot vision",
-    "impact"      : "1,000+ students mentored | 12,000+ program participants",
-    "philosophy"  : "Learn by building. Ship before you feel ready.",
-    "goal"        : "Make AI work for Africa — and for the world.",
-}
-```
-
-<br clear="right"/>
-
----
-
-## 🎯 Featured Project: AdaptShot
 
 <div align="center">
 
-### 🌿 AdaptShot — *Human-Aligned Few-Shot Learning for the Real World*
-
-[![PyPI](https://img.shields.io/badge/PyPI-v0.1.0%20(alpha)-blue?style=for-the-badge)](https://pypi.org/project/adaptshot/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Built in Tanzania](https://img.shields.io/badge/Built%20in-Tanzania%20🇹🇿-gold?style=for-the-badge)](https://en.wikipedia.org/wiki/Tanzania)
+## `[ FOUNDER NOTES ]`
 
 </div>
 
-> *"A zero-config, CPU-first, human-in-the-loop few-shot vision library that learns from every correction, guarantees calibrated uncertainty, and runs deterministically on edge hardware with <50 images per class."*
-
-**AdaptShot** is my open-source research project: a few-shot vision library designed for environments where data is scarce, compute is limited, and human expertise is the most valuable signal.
-
-| Component | Purpose | Status |
-|-----------|---------|--------|
-| **Core Engine** | Frozen ResNet-18 + FAISS-CPU similarity search | ✅ Implemented |
-| **Calibration** | Temperature scaling + ECE tracking + conformal stub | ✅ Implemented |
-| **ACT** | Adaptive Confidence Thresholding (dynamic decision gates) | 🟡 In development |
-| **CA-EWC** | Correction-Aware Elastic Weight Consolidation | 🟡 In development |
-| **UP-UGF** | Uncertainty-Guided Forgetting (bounded replay buffer) | 🟡 In development |
-| **Feedback Router** | Human corrections → buffer update → head-only fine-tune | ✅ Implemented |
-
-**Why it matters:** Most few-shot libraries assume GPU clusters and thousands of auxiliary samples. AdaptShot assumes a rural clinic with 40 X-rays, a farmer with a low-spec phone, or a classroom with no internet. It is engineered for the world that actually exists.
-
-**Target metrics (v0.1.0):**
-- ✅ Few-shot accuracy: >70% on 10-shot tasks (CIFAR-10 subset)
-- ✅ Calibration: ECE < 0.05 on held-out validation
-- ✅ Latency: <50ms p95 on Intel i5-1135G7 (CPU-only)
-- ✅ Memory: <250MB peak RAM for full pipeline
-- ✅ Reproducibility: Bit-exact outputs across seeds/hardware
-
-**Repository:** [github.com/johnson2006christopher/adaptshot](https://github.com/johnson2006christopher/adaptshot)  
-**Status:** `v0.1.0` alpha in development. Targeting PyPI + arXiv within 10 weeks.
-
----
-
-## `> cat tech_stack.json`
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-**AI & Machine Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Backend & Infrastructure**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Hardware & Embedded**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## `> git log --oneline --graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=johnson2006christopher&theme=react-dark&hide_border=true&area=true&color=1E8449&line=145A32&point=1E8449&area_color=0A3622" width="98%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=johnson2006christopher&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=1E8449&icon_color=1E8449&text_color=AAAAAA" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnson2006christopher&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=1E8449&text_color=AAAAAA" height="165" />
-
-</div>
-
----
-
-## `> ./experience.sh`
-
-```
-AdaptShot (Open-Source Research)          May 2026 – Present
-  Creator & Lead Developer
-  ├── Architecting CPU-first few-shot vision pipeline (PyTorch + FAISS-CPU)
-  ├── Implementing calibrated uncertainty (ECE tracking + conformal stub)
-  ├── Designing human-in-the-loop feedback router (corrections → fine-tune)
-  └── Target: v0.1.0 on PyPI + arXiv within 10 weeks
-
-BLECA SmartLabs                           Mar 2026 – Present
-  Technical Founder & Product Lead
-  ├── Directing product vision for enterprise AI systems in African HE
-  ├── Learning full-stack architecture through daily codebase study
-  ├── Hybrid AI pipeline design for low-bandwidth environments
-  └── Competing at MUST Innovation Competition (May 2026)
-
-WS Softwares                             Dec 2025 – Feb 2026
-  Frontend & Embedded Systems Engineer
-  ├── Redesigned UI for real-time sign language translation system
-  └── Hardware-software integration: embedded device ↔ responsive web
-
-E3Empower Africa                         Dec 2024 – Aug 2025
-  Intern & ICT Mentor
-  ├── Installed computer labs across 10 government secondary schools
-  ├── Taught Python, Java, JavaScript to 200+ students
-  ├── Conducted Arduino & robotics workshops across Tanzania
-  └── Contributed to JA Africa SEP — 12,000+ participants reached
-
-FUES (Foundation of Upcoming Engineers)  Jan 2022 – Jan 2025
-  Program Leader & Teacher
-  ├── Led Eco Youth Program — 200+ students
-  └── 🏆 "Best Project of the Year" 2023 — Projekt Inspire
-```
-
----
-
-## `> ./achievements.sh`
-
-<div align="center">
-
-| 🏆 | Achievement | Impact |
-|:---:|:---|:---|
-| 🌿 | **AdaptShot** — open-source few-shot vision library | Targeting PyPI + arXiv; built for resource-constrained deployment |
-| 🛡️ | **ExamGuard AI** — enterprise proctoring system | Pilot-ready; MUST Innovation Competition May 2026 |
-| 🌾 | **AgroScan+** — maize disease detection model | >90% validation accuracy; designed for Tanzanian smallholder farmers |
-| 💧 | **Arduino Water Leakage Detection** | 100% self-built; deployed at Kimaseki Secondary School |
-| 🏅 | **Best Project of the Year** | Projekt Inspire 2023 |
-| 🏅 | **Best Innovator of the Year** | Kimaseki Secondary School |
-| 👩‍💻 | **1,000+ students mentored** in ICT, programming & robotics | 10 schools across Tanzania |
-| 🌍 | **12,000+ participants** impacted via JA Africa SEP | Continental-scale educational program |
-| 📜 | **Microsoft Certifications** | AI Agents for Beginners; Introduction to Programming Using Python |
-
-</div>
-
----
-
-## `> cat philosophy.txt`
-
-> I am a 1st-year engineering student who believes the best way to learn is to build something real.
+> ```
+> TRANSMISSION // johnson_c_hassan → global_engineers
+> TIMESTAMP    // 2026.06
+> SUBJECT      // Why I build
+> ─────────────────────────────────────────────────────────────────────
 >
-> I don't wait for permission. I don't wait for perfect knowledge. I start with a problem, learn the tools I need, and ship.
+> I am a first-year student at a university in Mbeya, Tanzania.
+> I have no GPU cluster. I have no venture funding.
+> I have an internet connection that cuts out when it rains.
 >
-> My work is guided by three principles:
-> 1. **AI should work where it's needed most** — not just in well-funded labs.
-> 2. **Honest uncertainty builds more trust than false confidence** — calibration matters.
-> 3. **Open science accelerates impact** — share code, document failures, invite collaboration.
+> I built ExamGuard AI because universities here can't afford 2GB/hr
+> cloud proctoring. I built AdaptShot because the rural clinic doesn't
+> have a data center. I'm building Swahili-first AI because if your
+> language model doesn't speak your language, it doesn't serve you.
 >
-> I am building AdaptShot because I believe few-shot learning can be practical, trustworthy, and accessible — even on a CPU, even with 40 images, even in rural Tanzania.
+> The tools I use aren't exotic. The problems I solve are real.
+> The infrastructure doesn't exist yet — so I'm building it.
 >
-> If that mission resonates with you, let's connect.
-
----
-
-## `> ./current_focus.sh`
-
-```bash
-# This week's priorities:
-$ python benchmarks/run_benchmark.py --dataset eurosat --seed 42
-$ pytest tests/test_calibration.py -v
-$ mypy src/adaptshot/core --strict
-$ ruff check src/ tests/
-$ echo "- Week 1 benchmark complete" >> docs/LEARNING_JOURNAL.md
-
-# Learning in public:
-# - Studying conformal prediction for robust calibration
-# - Profiling ResNet-18 on CPU for edge deployment
-# - Documenting ACT/CA-EWC/UP-UGF ablation design
-# - Preparing v0.1.0 alpha for PyPI
-
-# Open to:
-# - AI engineering internships (remote or on-site)
-# - Open-source collaboration on few-shot / calibration / edge AI
-# - Mentorship from engineers building production ML systems
-```
-
----
-
-## `> ping johnson --connect`
-
-<div align="center">
-
-**I build in public. I learn by shipping. Let's connect.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Johnson%20Hassan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnson-hassan-935124311/)
-[![Gmail](https://img.shields.io/badge/Gmail-johnson2006christopher%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnson2006christopher@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-johnsoncv.netlify.app-1E8449?style=for-the-badge&logo=vercel&logoColor=white)](https://johnsoncv.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-@johnson2006christopher-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnson2006christopher)
-[![AdaptShot](https://img.shields.io/badge/AdaptShot-Repo-1E8449?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnson2006christopher/adaptshot)
-
-<br/>
-
-> *"I'm not waiting for permission to build things that matter.*
-> *Africa needs engineers who ship. I intend to be one of them."*
+> Three principles I ship by:
+>   [01]  AI should work where it's NEEDED, not just where it's funded.
+>   [02]  Calibrated uncertainty > false confidence. Always.
+>   [03]  Open code moves faster than closed code. Share everything.
+>
+> I'm not waiting for permission.
+> Africa doesn't need permission to build the future.
+> Neither do I.
 >
 > — Johnson Christopher Hassan
+> ─────────────────────────────────────────────────────────────────────
+> END TRANSMISSION
+> ```
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E8449,50:145A32,100:0D1117&height=120&section=footer" width="100%"/>
+<div align="center">
+
+## `[ COLLABORATION PROTOCOL ]`
+
+</div>
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  OPEN TO CONNECTION IF YOU ARE:                                          │
+│                                                                          │
+│  ⬡  Building production ML systems in Africa or emerging markets        │
+│  ⬡  Researching edge AI, low-resource NLP, or few-shot learning         │
+│  ⬡  Working on AgriTech, HealthTech, or EdTech for the Global South     │
+│  ⬡  Open-source contributors to AI / CV / inference tooling             │
+│  ⬡  Founders solving real problems with real constraints                │
+│                                                                          │
+│  NOT OPEN TO:                                                            │
+│  ✗  "Can you do this for free?" with no mission alignment               │
+│  ✗  Generic tutorial requests — ship something real instead             │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-johnson2006christopher-0A0F0A?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/johnson2006christopher)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A3622?style=for-the-badge&logo=linkedin&logoColor=00FF88)](https://linkedin.com/in/johnson-christopher-hassan)
+&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-Ping_Me-145A32?style=for-the-badge&logo=gmail&logoColor=00FF88)](mailto:johnson2006christopher@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A3622,50:145A32,100:000000&height=120&section=footer&text=Africa%20builds%20its%20own%20future.&fontSize=18&fontColor=00FF88&fontAlignY=65&animation=fadeIn" width="100%" />
+
+```
+"The infrastructure doesn't exist yet. That's why I'm here."
+                                          — J.C.H, Mbeya 🇹🇿
+```
+
+![](https://img.shields.io/badge/LAST%20UPDATED-JUNE%202026-0A0F0A?style=flat-square&logoColor=00FF88)
+&nbsp;
+![](https://img.shields.io/badge/SYSTEM-ONLINE-00FF88?style=flat-square)
 
 </div>
