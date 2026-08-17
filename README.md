@@ -1,182 +1,150 @@
-# Johnson Christopher Hassan
+<div align="center">
 
-**AI Research Engineer · Edge Systems Developer · Technical Founder**
+# Hi, I'm Johnson Christopher Hassan 👋
 
-Mbeya, Tanzania | [Email](mailto:johnson2006christopher@gmail.com) | [LinkedIn](https://www.linkedin.com/in/johnson-hassan-935124311/) | [Portfolio](https://johnsoncv.netlify.app)
+### Software & AI Engineer · Technical Founder @ Next Gen Lab
 
----
+**Building AI infrastructure for the environments that need it most — not just the ones that can afford it.**
 
-## About Me
+<br />
 
-Computer Engineering student at Mbeya University of Science and Technology (MUST) with a focus on building AI systems that work in resource-constrained environments. I architect scalable, offline-first infrastructure for African institutions. Currently intern at **Neurotech Africa** (Aug 2026) building production-grade AI systems.
+[![Portfolio](https://img.shields.io/badge/Portfolio-johnsoncv.netlify.app-0052CC?style=for-the-badge&logo=vercel&logoColor=white)](https://johnsoncv.netlify.app/)
+[![Substack](https://img.shields.io/badge/Substack-Articles_&_Insights-1D3557?style=for-the-badge&logo=substack&logoColor=white)](https://johnsonchristopher.substack.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnson-hassan-935124311/)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-0077B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnson2006christopher@gmail.com)
 
-**Core belief:** AI infrastructure should work where it's needed most — not just where it's well-funded.
+![Profile Views](https://komarev.com/ghpvc/?username=johnson2006christopher&color=0052CC&style=flat-square)
 
----
+</div>
 
-## Impact Metrics
+<br />
 
-| Metric | Value |
-|--------|-------|
-| **Students Mentored** | 1,000+ |
-| **Youth Reached** | 12,000+ |
-| **Schools Supported** | 10+ |
-| **Open Source Downloads** | 600+ (AdaptShot on PyPI) |
+## 👨‍💻 About Me
 
----
+I'm a **Computer Engineering student** at **Mbeya University of Science and Technology (MUST)**, a **Software & AI Engineer** at **[BLECA SmartLabs](https://blecasmartlabs.co.tz/)**, and a **Software & AI Engineering Intern** at **[Neurotech Africa](https://www.neurotech.africa/)**.
 
-## Flagship Projects
+As **Technical Founder of Next Gen Lab**, I design autonomous agentic workflows, edge computer vision systems, and high-performance backend pipelines — built to run reliably in low-bandwidth, low-power, and resource-constrained environments across Africa and beyond.
 
-### 🛡️ ExamGuard AI
-**Edge-Powered Academic Integrity Platform**
+> 💡 **Core Belief:** *AI infrastructure should work where it's needed most — not just where it's well-funded.*
 
-An AI-assisted examination proctoring system designed for universities with limited bandwidth. Moves inference entirely to the client, reducing data usage by **98%** compared to cloud-based alternatives.
+🥇 **Gold Prize Winner** — International SMART 2026 Competition, South Korea (Creator of *AdaptShot*)
+🏆 **Best Project of the Year** — Projekt Inspire National Showcase (2023)
 
-**Key Features:**
-- Local YOLOv8 inference (no cloud required)
-- Offline-first architecture with Redis session state
-- JWT-based authentication + encrypted audit logs
-- Bandwidth usage: **< 15MB/hr** (vs. 2GB/hr with cloud proctoring)
-- Competing at MUST Innovation Week (June 2026)
+<br />
 
-**Tech Stack:** FastAPI · Next.js · PostgreSQL · Redis · YOLOv8 · OpenCV · Docker
+## 🛠️ Tech Stack
 
-**Status:** Live Demo · Production-Ready Core Functions
+**Languages**
+![Python](https://img.shields.io/badge/Python-14213D?style=flat-square&logo=python&logoColor=00B4D8)
+![TypeScript](https://img.shields.io/badge/TypeScript-14213D?style=flat-square&logo=typescript&logoColor=00B4D8)
+![JavaScript](https://img.shields.io/badge/JavaScript-14213D?style=flat-square&logo=javascript&logoColor=00B4D8)
+![C++](https://img.shields.io/badge/C++-14213D?style=flat-square&logo=cplusplus&logoColor=00B4D8)
 
----
+**AI & Agentic Systems**
+![PyTorch](https://img.shields.io/badge/PyTorch-14213D?style=flat-square&logo=pytorch&logoColor=00B4D8)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-14213D?style=flat-square&logo=tensorflow&logoColor=00B4D8)
+![LangGraph](https://img.shields.io/badge/LangGraph-14213D?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-14213D?style=flat-square)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-14213D?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-14213D?style=flat-square)
 
-### 🌿 AdaptShot
-**Few-Shot Vision Library for CPU-First Inference**
+**Backend & Systems**
+![FastAPI](https://img.shields.io/badge/FastAPI-14213D?style=flat-square&logo=fastapi&logoColor=00B4D8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14213D?style=flat-square&logo=postgresql&logoColor=00B4D8)
+![MySQL](https://img.shields.io/badge/MySQL-14213D?style=flat-square&logo=mysql&logoColor=00B4D8)
+![Redis](https://img.shields.io/badge/Redis-14213D?style=flat-square&logo=redis&logoColor=00B4D8)
+![Celery](https://img.shields.io/badge/Celery-14213D?style=flat-square&logo=celery&logoColor=00B4D8)
 
-Published open-source Python library enabling learning from 5–20 labeled examples on resource-constrained hardware. Designed for scenarios where GPUs don't exist — rural clinics, low-spec phones, offline classrooms.
+**Frontend & DevOps**
+![Next.js](https://img.shields.io/badge/Next.js-14213D?style=flat-square&logo=nextdotjs&logoColor=00B4D8)
+![React](https://img.shields.io/badge/React-14213D?style=flat-square&logo=react&logoColor=00B4D8)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-14213D?style=flat-square&logo=tailwindcss&logoColor=00B4D8)
+![Docker](https://img.shields.io/badge/Docker-14213D?style=flat-square&logo=docker&logoColor=00B4D8)
+![Git](https://img.shields.io/badge/Git-14213D?style=flat-square&logo=git&logoColor=00B4D8)
 
-**Key Features:**
-- Frozen ResNet-18 backbone + FAISS-CPU search
-- Human-in-the-loop correction system
-- Calibrated uncertainty via temperature scaling + ECE
-- Peak RAM: < 250MB | p95 latency: < 50ms on Intel CPU
-- Full 11-chapter documentation + benchmarks
+<br />
 
-**Tech Stack:** PyTorch · FAISS · scikit-learn · Temperature Scaling
+## 🚀 Featured Open-Source Projects
 
-**Metrics:**
-- 600+ PyPI downloads (< 1 month)
-- v0.1.1 released · fully documented
-- Actively maintained
+### 🌿 [AdaptShot](https://github.com/johnson2006christopher/adaptshot) — CPU-First Few-Shot Computer Vision Library
 
-**Install:** `pip install adaptshot`
+[![PyPI Version](https://img.shields.io/pypi/v/adaptshot?color=0052CC&style=flat-square)](https://pypi.org/project/adaptshot/)
+[![Downloads](https://img.shields.io/pypi/dm/adaptshot?color=00B4D8&style=flat-square)](https://pypi.org/project/adaptshot/)
+[![Award](https://img.shields.io/badge/Award-Gold_Prize_SMART_2026-FFC300?style=flat-square)](https://github.com/johnson2006christopher/adaptshot)
 
----
+An offline, CPU-first few-shot vision library built for resource-constrained deployment — laptops, Raspberry Pi, and everything without a GPU. Gold Prize winner, International SMART 2026 Competition (South Korea).
 
-## Other Notable Projects
+- **CPU-First Architecture** — no GPU dependency, runs on edge hardware
+- **Ultra-Low Memory** — production-hardened footprint under **250MB RAM**
+- **Human-in-the-Loop Adaptation** — learns from fewer than 50 corrections per class
+- **Calibrated Uncertainty** — flags ambiguous predictions instead of guessing wrong
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **AgroScan+** | Maize disease detection model (>90% validation accuracy) | Python, TensorFlow, Keras, React, FastAPI |
-| **EasyHostel** | Student housing PWA with AI room matching | React 18, TypeScript, Google Gemini API, Tailwind CSS |
-| **Arduino Water Leakage System** | Sensor-based water conservation system (deployed at Kimaseki Secondary School) | Arduino, Embedded C |
-
----
-
-## Technical Skills
-
-**Languages:** Python (well proficient) · TypeScript (well proficient) · JavaScript · C/C++
-
-**AI & ML:** PyTorch · TensorFlow/Keras · YOLOv8 · FAISS · OpenCV · Transfer Learning · Few-Shot Learning
-
-**Backend:** FastAPI · Node.js · REST APIs · PostgreSQL · Redis · Supabase
-
-**Frontend:** React 18 · Next.js · Tailwind CSS · Vite
-
-**DevOps & Tools:** Docker · Git · GitHub · CI/CD · PyPI Publishing · Vercel
-
----
-
-## Professional Experience
-
-### Artificial Intelligence Intern
-**CodeAlpha** | May 10 – June 10, 2026 | Virtual
-
-Built full-stack AI applications in a remote, fast-paced environment. Designed and deployed production-ready features integrating machine learning models with web interfaces.
-
-### Technical Founder & Product Lead — ExamGuard AI
-**BLECA SmartLabs** | March 2026 – Present | Mbeya, Tanzania
-
-Directing product vision and technical roadmap. Architected hybrid local/cloud inference pipeline for low-bandwidth academic environments.
-
-### Frontend & Embedded Systems Engineer
-**WS Softwares** | December 2025 – February 2026 | Mbeya, Tanzania
-
-Redesigned UI for real-time sign language translation system. Integrated responsive web frontend with embedded hardware devices.
-
-### Intern & ICT Mentor
-**E3Empower Africa** | December 2024 – August 2025 | Tanzania
-
-- Installed computer labs across 10 government secondary schools
-- Taught Python, Java, JavaScript to 200+ students
-- Supported JA Africa program reaching 12,000+ participants
-
-### Program Leader & Teacher
-**FUES Foundation** | January 2022 – January 2025 | Tanzania
-
-- Led Eco Youth Program (200+ students)
-- Founded school Science and STEM clubs (100+ active members)
-- **Award:** Best Project of the Year (2023, Projekt Inspire)
-
----
-
-## Education
-
-**Diploma in Computer Engineering** | Mbeya University of Science and Technology (MUST) | Nov 2025 – Present
-
-**Certificate in Python Programming** | Microsoft / E3Empower Africa | 2024–2025
-
----
-
-## Awards & Certifications
-
-- **Best Project of the Year** — Projekt Inspire National Showcase (2023)
-- **Best Innovator of the Year** — Kimaseki Secondary School
-- **AI Agents for Beginners** — Microsoft
-- **Introduction to Programming Using Python** — Microsoft / E3Empower Africa
-
----
-
-## Languages
-
-- **Swahili** — Native
-- **English** — Professional Working
-
----
-
-## Philosophy
-
-```
-Three principles I ship by:
-
-[01] AI should work where it's NEEDED, not just where it's FUNDED.
-[02] Calibrated uncertainty > false confidence. Always.
-[03] Open code moves faster than closed code. Share everything.
+```bash
+pip install adaptshot
 ```
 
----
+### 🛡️ [Legal Guard AI — Tanzania Edition](https://github.com/johnson2006christopher/legal_guard_ai) — Empathetic AI Legal Advisor
 
-## Let's Connect
+A browser side-panel assistant that translates complex Tanzanian contracts, ToS documents, and statutes into plain, Swahili-friendly English.
 
-I'm open to collaboration if you're building:
-- Production ML systems in Africa or emerging markets
-- Edge AI, low-resource NLP, or few-shot learning
-- AgriTech, HealthTech, or EdTech for the Global South
-- Open-source AI infrastructure
+- **Dual Engine** — Contract Auditor (0–100 risk score, red-flag detection) + Conversational Assistant (BRELA, TRA, OSHA, COSOTA procedures)
+- **Lightweight RAG** — Tanzanian legal texts (Companies Act, Labour Act) embedded via ChromaDB + FastAPI to minimize hallucination
+- **Privacy-First** — local key storage, native `pdf.js` parsing, execution-on-demand script injection only
 
-**Reach out:** [Email](mailto:johnson2006christopher@gmail.com) · [LinkedIn](https://www.linkedin.com/in/johnson-hassan-935124311/)
+<br />
+
+## 🔒 Selected Private & Institutional Systems
+
+| Project | Role / Focus | Highlights |
+| :--- | :--- | :--- |
+| **ExamGuard AI** | Creator & Lead Engineer | Edge-powered exam proctoring with local YOLOv8 inference — cuts bandwidth usage by 98% (< 15MB/hr) |
+| **Mail Room** | Backend Architect | Async, enterprise-grade email broadcasting engine — FastAPI, Celery task queues, Redis caching |
+| **AgroScan+** | ML Engineer | Maize leaf disease detection, > 90% validation accuracy — PyTorch, TensorFlow, FastAPI |
+
+<br />
+
+## 💼 Consulting & Freelance — via Next Gen Lab
+
+| Service | What I Deliver |
+| :--- | :--- |
+| 🤖 **Autonomous AI Agents** | Custom LangGraph agent pipelines integrated via FastAPI |
+| 📄 **Private Document RAG** | Secure internal enterprise search over PDFs — pgvector, Qdrant, Next.js |
+| 🚀 **Full-Stack AI SaaS MVPs** | Idea-to-launch builds — FastAPI, Next.js, Redis, Stripe |
+| ⚡ **Backend Performance Audits** | Latency reduction, async query profiling, memory leak resolution |
+| 🎓 **Corporate Engineering Workshops** | Hands-on training in agentic AI, async architecture, system design |
+
+<br />
+
+## 📈 Impact
+
+| Metric | Result |
+| :--- | :--- |
+| Youth & Students Reached | **12,000+** |
+| Students Directly Mentored | **1,000+** (Python, Web, Embedded Systems) |
+| Computer Labs Deployed | **10+** secondary schools |
+| Open Source | Active PyPI maintainer & browser-tool author |
+
+<br />
+
+## ✍️ Writing
+
+I write about backend optimization, AI deployment lessons, and technical breakthroughs on Substack.
+
+👉 **[johnsonchristopher.substack.com](https://johnsonchristopher.substack.com/)**
+
+<br />
 
 ---
 
 <div align="center">
 
-**Built in Mbeya, Tanzania 🇹🇿**
+### 📫 Let's Build Something
 
-![Profile Views](https://komarev.com/ghpvc/?username=johnson2006christopher&color=0A3622)
+Open to consulting engagements, collaborations, and interesting problems.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-johnsoncv.netlify.app-0052CC?style=for-the-badge)](https://johnsoncv.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-johnson2006christopher@gmail.com-0077B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnson2006christopher@gmail.com)
+
+**Built with precision in Mbeya, Tanzania 🇹🇿**
 
 </div>
