@@ -1,15 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=JOHNSON%20CHRISTOPHER%20HASSAN&fontSize=36&fontColor=00F0FF&animation=fadeIn&fontAlignY=36&desc=Software%20%26%20AI%20Engineer%20%7C%7C%20Technical%20Founder%20%40%20Next%20Gen%20Lab&descAlignY=56&descSize=17&descColor=A78BFA" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=780&lines=%3E+initializing+johnson.exe+...;%3E+building+AI+infra+for+resource-constrained+environments;%3E+CPU-first+%7C%7C+offline-first+%7C%7C+edge-native;%3E+Gold+Prize+%40+SMART+2026%2C+South+Korea;%3E+shipping+agentic+systems+from+Tanzania)](https://git.io/typing-svg)
-
-`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰`
-
-</div>
-
-<br/>
-
 ## `◤ 01 ◢` BOOT.SEQUENCE
 
 ```console
