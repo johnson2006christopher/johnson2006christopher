@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1204 818" width="1204" height="818" role="img" aria-label="Isometric 3D city where each tower is a skill domain and its height is the number of technologies">
+<title>Isometric skill matrix</title><desc>Isometric 3D city where each tower is a skill domain and its height is the number of technologies</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#05040E"/><stop offset="55%" stop-color="#0F0C29"/><stop offset="100%" stop-color="#160F33"/>
+</linearGradient>
+<filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+<feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="hard" x="-70%" y="-70%" width="240%" height="240%">
+<feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+
+</defs>
+<style>
+text { paint-order: stroke; }
+@keyframes pulse { 0%,100% { opacity:.30 } 50% { opacity:.95 } }
+@keyframes rise { 0% { opacity:0; transform:translateY(14px) } 12% { opacity:1 } 88% { opacity:1 } 100% { opacity:0; transform:translateY(-190px) } }
+@keyframes sweep { 0% { opacity:0 } 8% { opacity:.85 } 92% { opacity:.85 } 100% { opacity:0 } }
+@keyframes blink { 0%,45% { opacity:1 } 50%,95% { opacity:.15 } 100% { opacity:1 } }
+.pulse { animation: pulse 3.4s ease-in-out infinite }
+.blink { animation: blink 2.2s steps(1,end) infinite }
+.pkt { animation: rise 4.6s linear infinite }
+
+</style>
+<rect width="100%" height="100%" fill="url(#bg)"/>
+<g transform="translate(602.11,126.00)">
+<g stroke="#A78BFA" stroke-opacity=".13" stroke-width="1"><line x1="0.0" y1="-48.0" x2="-568.1" y2="280.0"/><line x1="84.9" y1="1.0" x2="-483.2" y2="329.0"/><line x1="169.7" y1="50.0" x2="-398.4" y2="378.0"/><line x1="254.6" y1="99.0" x2="-313.5" y2="427.0"/><line x1="339.5" y1="148.0" x2="-228.6" y2="476.0"/><line x1="424.4" y1="197.0" x2="-143.8" y2="525.0"/><line x1="509.2" y1="246.0" x2="-58.9" y2="574.0"/><line x1="0.0" y1="-48.0" x2="568.1" y2="280.0"/><line x1="-84.9" y1="1.0" x2="483.2" y2="329.0"/><line x1="-169.7" y1="50.0" x2="398.4" y2="378.0"/><line x1="-254.6" y1="99.0" x2="313.5" y2="427.0"/><line x1="-339.5" y1="148.0" x2="228.6" y2="476.0"/><line x1="-424.4" y1="197.0" x2="143.8" y2="525.0"/><line x1="-509.2" y1="246.0" x2="58.9" y2="574.0"/></g>
+<g class=""><polygon points="-568.11,280.00 0.00,608.00 0.00,628.00 -568.11,300.00" fill="#382F55" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".55"/><polygon points="0.00,608.00 568.11,280.00 568.11,300.00 0.00,628.00" fill="#211B32" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".45"/><polygon points="0.00,-48.00 568.11,280.00 0.00,608.00 -568.11,280.00" fill="#67569B" fill-opacity="0.5" stroke="#A78BFA" stroke-width="1.8"/></g>
+<g class=""><polygon points="-114.32,28.20 0.00,94.20 0.00,150.00 -114.32,84.00" fill="#382F55" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".55"/><polygon points="0.00,94.20 114.32,28.20 114.32,84.00 0.00,150.00" fill="#211B32" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".45"/><polygon points="0.00,-37.80 114.32,28.20 0.00,94.20 -114.32,28.20" fill="#67569B" fill-opacity="1.0" stroke="#A78BFA" stroke-width="1.8" filter="url(#soft)"/></g>
+<text class="" x="0.0" y="27.2" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="13.6" fill="#A78BFA" fill-opacity="1.0" text-anchor="middle" font-weight="bold" letter-spacing="1.2">VECTOR · RAG</text>
+<text class="" x="0.0" y="44.2" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#A78BFA" fill-opacity=".82" text-anchor="middle" font-weight="normal" letter-spacing="1.6">3 TOOLS</text>
+<g class=""><polygon points="-284.06,88.40 -169.74,154.40 -169.74,248.00 -284.06,182.00" fill="#005156" stroke="#00F0FF" stroke-width="1.1" stroke-opacity=".55"/><polygon points="-169.74,154.40 -55.43,88.40 -55.43,182.00 -169.74,248.00" fill="#003033" stroke="#00F0FF" stroke-width="1.1" stroke-opacity=".45"/><polygon points="-169.74,22.40 -55.43,88.40 -169.74,154.40 -284.06,88.40" fill="#00949E" fill-opacity="1.0" stroke="#00F0FF" stroke-width="1.8" filter="url(#soft)"/></g>
+<text class="" x="-169.7" y="87.4" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="13.6" fill="#00F0FF" fill-opacity="1.0" text-anchor="middle" font-weight="bold" letter-spacing="1.2">BACKEND</text>
+<text class="" x="-169.7" y="104.4" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#00F0FF" fill-opacity=".82" text-anchor="middle" font-weight="normal" letter-spacing="1.6">6 TOOLS</text>
+<g class=""><polygon points="55.43,75.80 169.74,141.80 169.74,248.00 55.43,182.00" fill="#005156" stroke="#00F0FF" stroke-width="1.1" stroke-opacity=".55"/><polygon points="169.74,141.80 284.06,75.80 284.06,182.00 169.74,248.00" fill="#003033" stroke="#00F0FF" stroke-width="1.1" stroke-opacity=".45"/><polygon points="169.74,9.80 284.06,75.80 169.74,141.80 55.43,75.80" fill="#00949E" fill-opacity="1.0" stroke="#00F0FF" stroke-width="1.8" filter="url(#soft)"/></g>
+<text class="" x="169.7" y="74.8" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="13.6" fill="#00F0FF" fill-opacity="1.0" text-anchor="middle" font-weight="bold" letter-spacing="1.2">LANGUAGES</text>
+<text class="" x="169.7" y="91.8" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#00F0FF" fill-opacity=".82" text-anchor="middle" font-weight="normal" letter-spacing="1.6">7 TOOLS</text>
+<g class=""><polygon points="-453.80,173.80 -339.48,239.80 -339.48,346.00 -453.80,280.00" fill="#382F55" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".55"/><polygon points="-339.48,239.80 -225.17,173.80 -225.17,280.00 -339.48,346.00" fill="#211B32" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".45"/><polygon points="-339.48,107.80 -225.17,173.80 -339.48,239.80 -453.80,173.80" fill="#67569B" fill-opacity="1.0" stroke="#A78BFA" stroke-width="1.8" filter="url(#soft)"/></g>
+<text class="" x="-339.5" y="172.8" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="13.6" fill="#A78BFA" fill-opacity="1.0" text-anchor="middle" font-weight="bold" letter-spacing="1.2">DATA LAYER</text>
+<text class="" x="-339.5" y="189.8" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#A78BFA" fill-opacity=".82" text-anchor="middle" font-weight="normal" letter-spacing="1.6">7 TOOLS</text>
+<g class=""><polygon points="-114.32,161.20 0.00,227.20 0.00,346.00 -114.32,280.00" fill="#005156" stroke="#00F0FF" stroke-width="1.1" stroke-opacity=".55"/><polygon points="0.00,227.20 114.32,161.20 114.32,280.00 0.00,346.00" fill="#003033" stroke="#00F0FF" stroke-width="1.1" stroke-opacity=".45"/><polygon points="0.00,95.20 114.32,161.20 0.00,227.20 -114.32,161.20" fill="#00949E" fill-opacity="1.0" stroke="#00F0FF" stroke-width="1.8" filter="url(#soft)"/></g>
+<text class="" x="0.0" y="160.2" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="13.6" fill="#00F0FF" fill-opacity="1.0" text-anchor="middle" font-weight="bold" letter-spacing="1.2">FRONTEND</text>
+<text class="" x="0.0" y="177.2" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#00F0FF" fill-opacity=".82" text-anchor="middle" font-weight="normal" letter-spacing="1.6">8 TOOLS</text>
+<g class=""><polygon points="225.17,136.00 339.48,202.00 339.48,346.00 225.17,280.00" fill="#382F55" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".55"/><polygon points="339.48,202.00 453.80,136.00 453.80,280.00 339.48,346.00" fill="#211B32" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".45"/><polygon points="339.48,70.00 453.80,136.00 339.48,202.00 225.17,136.00" fill="#67569B" fill-opacity="1.0" stroke="#A78BFA" stroke-width="1.8" filter="url(#soft)"/></g>
+<text class="" x="339.5" y="135.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="13.6" fill="#A78BFA" fill-opacity="1.0" text-anchor="middle" font-weight="bold" letter-spacing="1.2">AI · ML · VISION</text>
+<text class="" x="339.5" y="152.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#A78BFA" fill-opacity=".82" text-anchor="middle" font-weight="normal" letter-spacing="1.6">10 TOOLS</text>
+<g class=""><polygon points="-284.06,234.00 -169.74,300.00 -169.74,444.00 -284.06,378.00" fill="#005156" stroke="#00F0FF" stroke-width="1.1" stroke-opacity=".55"/><polygon points="-169.74,300.00 -55.43,234.00 -55.43,378.00 -169.74,444.00" fill="#003033" stroke="#00F0FF" stroke-width="1.1" stroke-opacity=".45"/><polygon points="-169.74,168.00 -55.43,234.00 -169.74,300.00 -284.06,234.00" fill="#00949E" fill-opacity="1.0" stroke="#00F0FF" stroke-width="1.8" filter="url(#soft)"/></g>
+<text class="" x="-169.7" y="233.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="13.6" fill="#00F0FF" fill-opacity="1.0" text-anchor="middle" font-weight="bold" letter-spacing="1.2">FOUNDATIONS</text>
+<text class="" x="-169.7" y="250.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#00F0FF" fill-opacity=".82" text-anchor="middle" font-weight="normal" letter-spacing="1.6">10 TOOLS</text>
+<g class=""><polygon points="55.43,221.40 169.74,287.40 169.74,444.00 55.43,378.00" fill="#005156" stroke="#00F0FF" stroke-width="1.1" stroke-opacity=".55"/><polygon points="169.74,287.40 284.06,221.40 284.06,378.00 169.74,444.00" fill="#003033" stroke="#00F0FF" stroke-width="1.1" stroke-opacity=".45"/><polygon points="169.74,155.40 284.06,221.40 169.74,287.40 55.43,221.40" fill="#00949E" fill-opacity="1.0" stroke="#00F0FF" stroke-width="1.8" filter="url(#soft)"/></g>
+<text class="" x="169.7" y="220.4" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="13.6" fill="#00F0FF" fill-opacity="1.0" text-anchor="middle" font-weight="bold" letter-spacing="1.2">LLM · AGENTIC</text>
+<text class="" x="169.7" y="237.4" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#00F0FF" fill-opacity=".82" text-anchor="middle" font-weight="normal" letter-spacing="1.6">11 TOOLS</text>
+<g class=""><polygon points="-114.32,306.80 0.00,372.80 0.00,542.00 -114.32,476.00" fill="#382F55" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".55"/><polygon points="0.00,372.80 114.32,306.80 114.32,476.00 0.00,542.00" fill="#211B32" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".45"/><polygon points="0.00,240.80 114.32,306.80 0.00,372.80 -114.32,306.80" fill="#67569B" fill-opacity="1.0" stroke="#A78BFA" stroke-width="1.8" filter="url(#soft)"/></g>
+<text class="" x="0.0" y="305.8" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="13.6" fill="#A78BFA" fill-opacity="1.0" text-anchor="middle" font-weight="bold" letter-spacing="1.2">DEVOPS · CLOUD</text>
+<text class="" x="0.0" y="322.8" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#A78BFA" fill-opacity=".82" text-anchor="middle" font-weight="normal" letter-spacing="1.6">12 TOOLS</text>
+<text class="" x="0.0" y="-78.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="14" fill="#00F0FF" fill-opacity=".9" text-anchor="middle" font-weight="bold" letter-spacing="3.4">SKILL  MATRIX   ·   74  TECHNOLOGIES   ·   9  DOMAINS</text>
+<text class="" x="0.0" y="654.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11.5" fill="#A78BFA" fill-opacity=".55" text-anchor="middle" font-weight="normal" letter-spacing="1">tower height = number of tools deployed in that domain</text>
+</g>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 811 739" width="811" height="739" role="img" aria-label="Isometric 3D bars: 12,000+ youth reached, 1,000+ students mentored, 10+ school labs deployed">
+<title>Isometric impact metrics</title><desc>Isometric 3D bars: 12,000+ youth reached, 1,000+ students mentored, 10+ school labs deployed</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#05040E"/><stop offset="55%" stop-color="#0F0C29"/><stop offset="100%" stop-color="#160F33"/>
+</linearGradient>
+<filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+<feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="hard" x="-70%" y="-70%" width="240%" height="240%">
+<feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+
+</defs>
+<style>
+text { paint-order: stroke; }
+@keyframes pulse { 0%,100% { opacity:.30 } 50% { opacity:.95 } }
+@keyframes rise { 0% { opacity:0; transform:translateY(14px) } 12% { opacity:1 } 88% { opacity:1 } 100% { opacity:0; transform:translateY(-190px) } }
+@keyframes sweep { 0% { opacity:0 } 8% { opacity:.85 } 92% { opacity:.85 } 100% { opacity:0 } }
+@keyframes blink { 0%,45% { opacity:1 } 50%,95% { opacity:.15 } 100% { opacity:1 } }
+.pulse { animation: pulse 3.4s ease-in-out infinite }
+.blink { animation: blink 2.2s steps(1,end) infinite }
+.pkt { animation: rise 4.6s linear infinite }
+
+</style>
+<rect width="100%" height="100%" fill="url(#bg)"/>
+<g transform="translate(186.42,228.01)">
+<g stroke="#A78BFA" stroke-opacity=".13" stroke-width="1"><line x1="0.0" y1="-14.0" x2="-152.4" y2="74.0"/><line x1="86.6" y1="36.0" x2="-65.8" y2="124.0"/><line x1="173.2" y1="86.0" x2="20.8" y2="174.0"/><line x1="259.8" y1="136.0" x2="107.4" y2="224.0"/><line x1="346.4" y1="186.0" x2="194.0" y2="274.0"/><line x1="433.0" y1="236.0" x2="280.6" y2="324.0"/><line x1="519.6" y1="286.0" x2="367.2" y2="374.0"/><line x1="0.0" y1="-14.0" x2="590.6" y2="327.0"/><line x1="-86.6" y1="36.0" x2="504.0" y2="377.0"/></g>
+<g class=""><polygon points="-152.42,74.00 438.21,415.00 438.21,437.00 -152.42,96.00" fill="#382F55" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".55"/><polygon points="438.21,415.00 590.63,327.00 590.63,349.00 438.21,437.00" fill="#211B32" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".45"/><polygon points="0.00,-14.00 590.63,327.00 438.21,415.00 -152.42,74.00" fill="#67569B" fill-opacity="0.45" stroke="#A78BFA" stroke-width="1.8"/></g>
+<g class=""><polygon points="-93.53,-101.01 36.37,-26.01 36.37,149.00 -93.53,74.00" fill="#005156" stroke="#00F0FF" stroke-width="1.1" stroke-opacity=".55"/><polygon points="36.37,-26.01 129.90,-80.01 129.90,95.00 36.37,149.00" fill="#003033" stroke="#00F0FF" stroke-width="1.1" stroke-opacity=".45"/><polygon points="0.00,-155.01 129.90,-80.01 36.37,-26.01 -93.53,-101.01" fill="#00949E" fill-opacity="1.0" stroke="#00F0FF" stroke-width="1.8" filter="url(#soft)"/></g>
+<text class="" x="18.2" y="-114.5" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="23" fill="#00F0FF" fill-opacity="1.0" text-anchor="middle" font-weight="bold" letter-spacing="1.5">12,000+</text>
+<text class="" x="18.2" y="-96.5" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#00F0FF" fill-opacity=".65" text-anchor="middle" font-weight="normal" letter-spacing="2">YOUTH REACHED</text>
+<g class=""><polygon points="107.39,56.00 237.29,131.00 237.29,265.00 107.39,190.00" fill="#382F55" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".55"/><polygon points="237.29,131.00 330.82,77.00 330.82,211.00 237.29,265.00" fill="#211B32" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".45"/><polygon points="200.92,2.00 330.82,77.00 237.29,131.00 107.39,56.00" fill="#67569B" fill-opacity="1.0" stroke="#A78BFA" stroke-width="1.8" filter="url(#soft)"/></g>
+<text class="" x="219.1" y="42.5" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="23" fill="#A78BFA" fill-opacity="1.0" text-anchor="middle" font-weight="bold" letter-spacing="1.5">1,000+</text>
+<text class="" x="219.1" y="60.5" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A78BFA" fill-opacity=".65" text-anchor="middle" font-weight="normal" letter-spacing="2">MENTORED</text>
+<g class=""><polygon points="308.31,248.00 438.21,323.00 438.21,381.00 308.31,306.00" fill="#005156" stroke="#00F0FF" stroke-width="1.1" stroke-opacity=".55"/><polygon points="438.21,323.00 531.74,269.00 531.74,327.00 438.21,381.00" fill="#003033" stroke="#00F0FF" stroke-width="1.1" stroke-opacity=".45"/><polygon points="401.84,194.00 531.74,269.00 438.21,323.00 308.31,248.00" fill="#00949E" fill-opacity="1.0" stroke="#00F0FF" stroke-width="1.8" filter="url(#soft)"/></g>
+<text class="" x="420.0" y="234.5" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="23" fill="#00F0FF" fill-opacity="1.0" text-anchor="middle" font-weight="bold" letter-spacing="1.5">10+</text>
+<text class="" x="420.0" y="252.5" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#00F0FF" fill-opacity=".65" text-anchor="middle" font-weight="normal" letter-spacing="2">SCHOOL LABS</text>
+<text class="" x="219.1" y="473.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="14" fill="#A78BFA" fill-opacity=".85" text-anchor="middle" font-weight="bold" letter-spacing="4">IMPACT   ·   MBEYA,  TANZANIA</text>
+<text class="" x="219.1" y="-183.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#00F0FF" fill-opacity=".45" text-anchor="middle" font-weight="normal" letter-spacing="1">log scale — bar height ∝ log₁₀(value)</text>
+</g>
+</svg>

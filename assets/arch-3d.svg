@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1194 901" width="1194" height="901" role="img" aria-label="Isometric 3D diagram of a five layer stack: edge gateway, orchestration, inference, retrieval, data layer">
+<title>Isometric platform architecture</title><desc>Isometric 3D diagram of a five layer stack: edge gateway, orchestration, inference, retrieval, data layer</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#05040E"/><stop offset="55%" stop-color="#0F0C29"/><stop offset="100%" stop-color="#160F33"/>
+</linearGradient>
+<filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+<feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="hard" x="-70%" y="-70%" width="240%" height="240%">
+<feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+
+</defs>
+<style>
+text { paint-order: stroke; }
+@keyframes pulse { 0%,100% { opacity:.30 } 50% { opacity:.95 } }
+@keyframes rise { 0% { opacity:0; transform:translateY(14px) } 12% { opacity:1 } 88% { opacity:1 } 100% { opacity:0; transform:translateY(-190px) } }
+@keyframes sweep { 0% { opacity:0 } 8% { opacity:.85 } 92% { opacity:.85 } 100% { opacity:0 } }
+@keyframes blink { 0%,45% { opacity:1 } 50%,95% { opacity:.15 } 100% { opacity:1 } }
+.pulse { animation: pulse 3.4s ease-in-out infinite }
+.blink { animation: blink 2.2s steps(1,end) infinite }
+.pkt { animation: rise 4.6s linear infinite }
+.pkt{animation:rise 4.6s linear infinite}@keyframes rise{0%{opacity:0;transform:translateY(30px)}10%{opacity:1}85%{opacity:1}100%{opacity:0;transform:translateY(-330px)}}
+</style>
+<rect width="100%" height="100%" fill="url(#bg)"/>
+<g transform="translate(678.73,318.00)">
+<g stroke="#A78BFA" stroke-opacity=".13" stroke-width="1"><line x1="0.0" y1="-15.0" x2="-467.7" y2="255.0"/><line x1="73.6" y1="27.5" x2="-394.0" y2="297.5"/><line x1="147.2" y1="70.0" x2="-320.4" y2="340.0"/><line x1="220.8" y1="112.5" x2="-246.8" y2="382.5"/><line x1="294.4" y1="155.0" x2="-173.2" y2="425.0"/><line x1="368.1" y1="197.5" x2="-99.6" y2="467.5"/><line x1="441.7" y1="240.0" x2="-26.0" y2="510.0"/><line x1="0.0" y1="-15.0" x2="467.7" y2="255.0"/><line x1="-73.6" y1="27.5" x2="394.0" y2="297.5"/><line x1="-147.2" y1="70.0" x2="320.4" y2="340.0"/><line x1="-220.8" y1="112.5" x2="246.8" y2="382.5"/><line x1="-294.4" y1="155.0" x2="173.2" y2="425.0"/><line x1="-368.1" y1="197.5" x2="99.6" y2="467.5"/><line x1="-441.7" y1="240.0" x2="26.0" y2="510.0"/></g>
+<ellipse cx="0.0" cy="255.0" rx="300" ry="150" fill="#00F0FF" fill-opacity=".055" filter="url(#hard)"/>
+<g class=""><polygon points="-372.39,215.00 0.00,430.00 0.00,450.00 -372.39,235.00" fill="#382F55" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".55"/><polygon points="0.00,430.00 372.39,215.00 372.39,235.00 0.00,450.00" fill="#211B32" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".45"/><polygon points="0.00,0.00 372.39,215.00 0.00,430.00 -372.39,215.00" fill="#67569B" fill-opacity="1.0" stroke="#A78BFA" stroke-width="1.8" filter="url(#soft)"/></g>
+<text class="" x="-392.4" y="214.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="17" fill="#A78BFA" fill-opacity="1.0" text-anchor="end" font-weight="bold" letter-spacing="2">L0 ▸ DATA  LAYER</text>
+<text class="" x="-392.4" y="231.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#A78BFA" fill-opacity=".58" text-anchor="end" font-weight="normal" letter-spacing="0.6">PostgreSQL · Redis · SQLite · MongoDB</text>
+<text class="" x="392.4" y="219.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#A78BFA" fill-opacity=".5" text-anchor="start" font-weight="normal" letter-spacing="1.0">durable state</text>
+<g class=""><polygon points="-346.41,139.00 0.00,339.00 0.00,359.00 -346.41,159.00" fill="#382F55" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".55"/><polygon points="0.00,339.00 346.41,139.00 346.41,159.00 0.00,359.00" fill="#211B32" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".45"/><polygon points="0.00,-61.00 346.41,139.00 0.00,339.00 -346.41,139.00" fill="#67569B" fill-opacity="1.0" stroke="#A78BFA" stroke-width="1.8" filter="url(#soft)"/></g>
+<text class="" x="-366.4" y="138.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="17" fill="#A78BFA" fill-opacity="1.0" text-anchor="end" font-weight="bold" letter-spacing="2">L1 ▸ RETRIEVAL</text>
+<text class="" x="-366.4" y="155.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#A78BFA" fill-opacity=".58" text-anchor="end" font-weight="normal" letter-spacing="0.6">FAISS · ChromaDB · pgvector</text>
+<text class="" x="366.4" y="143.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#A78BFA" fill-opacity=".5" text-anchor="start" font-weight="normal" letter-spacing="1.0">grounding</text>
+<g class=""><polygon points="-320.43,63.00 0.00,248.00 0.00,268.00 -320.43,83.00" fill="#005156" stroke="#00F0FF" stroke-width="1.1" stroke-opacity=".55"/><polygon points="0.00,248.00 320.43,63.00 320.43,83.00 0.00,268.00" fill="#003033" stroke="#00F0FF" stroke-width="1.1" stroke-opacity=".45"/><polygon points="0.00,-122.00 320.43,63.00 0.00,248.00 -320.43,63.00" fill="#00949E" fill-opacity="1.0" stroke="#00F0FF" stroke-width="1.8" filter="url(#soft)"/></g>
+<text class="" x="-340.4" y="62.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="17" fill="#00F0FF" fill-opacity="1.0" text-anchor="end" font-weight="bold" letter-spacing="2">L2 ▸ INFERENCE</text>
+<text class="" x="-340.4" y="79.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#00F0FF" fill-opacity=".58" text-anchor="end" font-weight="normal" letter-spacing="0.6">PyTorch · YOLOv8 · Ollama · vLLM</text>
+<text class="" x="340.4" y="67.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#00F0FF" fill-opacity=".5" text-anchor="start" font-weight="normal" letter-spacing="1.0">CPU-first · no GPU</text>
+<g class=""><polygon points="-294.45,-13.00 0.00,157.00 0.00,177.00 -294.45,7.00" fill="#382F55" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".55"/><polygon points="0.00,157.00 294.45,-13.00 294.45,7.00 0.00,177.00" fill="#211B32" stroke="#A78BFA" stroke-width="1.1" stroke-opacity=".45"/><polygon points="0.00,-183.00 294.45,-13.00 0.00,157.00 -294.45,-13.00" fill="#67569B" fill-opacity="1.0" stroke="#A78BFA" stroke-width="1.8" filter="url(#soft)"/></g>
+<text class="" x="-314.4" y="-14.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="17" fill="#A78BFA" fill-opacity="1.0" text-anchor="end" font-weight="bold" letter-spacing="2">L3 ▸ ORCHESTRATION</text>
+<text class="" x="-314.4" y="3.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#A78BFA" fill-opacity=".58" text-anchor="end" font-weight="normal" letter-spacing="0.6">LangGraph · Celery · MCP tools</text>
+<text class="" x="314.4" y="-9.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#A78BFA" fill-opacity=".5" text-anchor="start" font-weight="normal" letter-spacing="1.0">state machine</text>
+<g class=""><polygon points="-268.47,-89.00 0.00,66.00 0.00,86.00 -268.47,-69.00" fill="#005156" stroke="#00F0FF" stroke-width="1.1" stroke-opacity=".55"/><polygon points="0.00,66.00 268.47,-89.00 268.47,-69.00 0.00,86.00" fill="#003033" stroke="#00F0FF" stroke-width="1.1" stroke-opacity=".45"/><polygon points="0.00,-244.00 268.47,-89.00 0.00,66.00 -268.47,-89.00" fill="#00949E" fill-opacity="1.0" stroke="#00F0FF" stroke-width="1.8" filter="url(#soft)"/></g>
+<text class="" x="-288.5" y="-90.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="17" fill="#00F0FF" fill-opacity="1.0" text-anchor="end" font-weight="bold" letter-spacing="2">L4 ▸ EDGE  GATEWAY</text>
+<text class="" x="-288.5" y="-73.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#00F0FF" fill-opacity=".58" text-anchor="end" font-weight="normal" letter-spacing="0.6">FastAPI · WebSockets · Raspberry Pi</text>
+<text class="" x="288.5" y="-85.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="11" fill="#00F0FF" fill-opacity=".5" text-anchor="start" font-weight="normal" letter-spacing="1.0">works offline</text>
+<g class="pkt" style="animation-delay:0.00s"><polygon points="0.0,207.0 9.0,215.0 0.0,223.0 -9.0,215.0" fill="#00F0FF" filter="url(#hard)"/></g><g class="pkt" style="animation-delay:0.90s"><polygon points="0.0,207.0 9.0,215.0 0.0,223.0 -9.0,215.0" fill="#00F0FF" filter="url(#hard)"/></g><g class="pkt" style="animation-delay:1.80s"><polygon points="0.0,207.0 9.0,215.0 0.0,223.0 -9.0,215.0" fill="#00F0FF" filter="url(#hard)"/></g><g class="pkt" style="animation-delay:2.70s"><polygon points="0.0,207.0 9.0,215.0 0.0,223.0 -9.0,215.0" fill="#00F0FF" filter="url(#hard)"/></g><g class="pkt" style="animation-delay:3.60s"><polygon points="0.0,207.0 9.0,215.0 0.0,223.0 -9.0,215.0" fill="#00F0FF" filter="url(#hard)"/></g>
+<text class="" x="0.0" y="-85.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#0F0C29" fill-opacity=".8" text-anchor="middle" font-weight="normal" letter-spacing="1.4">▲  requests enter here</text>
+<text class="" x="-81.8" y="-270.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="14" fill="#00F0FF" fill-opacity=".9" text-anchor="middle" font-weight="bold" letter-spacing="3.4">REQUEST  PATH  ────▶  ONE  STACK,  FIVE  LAYERS</text>
+<text class="" x="-81.8" y="545.0" font-family="ui-monospace,'DejaVu Sans Mono',Consolas,'Courier New',monospace" font-size="13.5" fill="#A78BFA" fill-opacity=".8" text-anchor="middle" font-weight="bold" letter-spacing="3.4">CPU-FIRST   ·   OFFLINE-FIRST   ·   EDGE-NATIVE</text>
+</g>
+</svg>
