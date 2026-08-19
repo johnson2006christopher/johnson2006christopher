@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"$CLAUDE_PROJECT_DIR/.claude/hooks/check-html-balance.sh\" 2>/dev/null || true",
+            "timeout": 10,
+            "statusMessage": "Checking README HTML balance..."
+          }
+        ]
+      }
+    ]
+  }
+}
