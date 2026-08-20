@@ -1,10 +1,10 @@
 <a name="top"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=210&section=header&text=JOHNSON%20C.%20HASSAN&fontSize=46&fontColor=00F0FF&fontAlignY=34&desc=SOFTWARE%20%C2%B7%20AI%20ENGINEER%20%C2%B7%20EDGE-NATIVE%20SYSTEMS&descAlignY=54&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=210&section=header&text=JOHNSON%20C.%20HASSAN&fontSize=46&fontColor=00F0FF&fontAlignY=34&desc=FULL-STACK%20SOFTWARE%20%C2%B7%20AI%20ENGINEER&descAlignY=54&descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00F0FF&center=true&vCenter=true&width=780&height=45&lines=CPU-first+computer+vision+that+runs+with+no+GPU;Agentic+pipelines+that+know+when+to+say+%22I+don%27t+know%22;AI+infrastructure+for+the+places+the+cloud+forgot)](https://johnsoncv.netlify.app/)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00F0FF&center=true&vCenter=true&width=780&height=45&lines=Full-stack+engineer%3A+Next.js+on+top%2C+FastAPI+underneath;CPU-first+computer+vision+that+runs+with+no+GPU;Agentic+pipelines+that+know+when+to+say+%22I+don%27t+know%22;Local-first+software+for+the+places+the+cloud+forgot)](https://johnsoncv.netlify.app/)
 
 **`▸ NAVIGATE`**
 
@@ -25,13 +25,16 @@
 $ ./initialize --operator johnson_christopher_hassan
 
 [ OK ] mounting identity ......................... johnson_christopher_hassan
+[ OK ] class .................................... Full-Stack Software & AI Engineer
 [ OK ] role ..................................... Software & AI Engineer @ BLECA SmartLabs
 [ OK ] role ..................................... Software & AI Engineering Intern @ Neurotech Africa
-[ OK ] founder .................................. Technical Founder @ Next Gen Lab
 [ OK ] education ................................ Computer Engineering @ MUST, Tanzania
 [ OK ] location ................................. Mbeya, Tanzania [-8.9094, 33.4608]
-[ OK ] loading mission .......................... ai_infrastructure_should_work_where_its_needed_most()
+[ OK ] stack .................................... Next.js + TypeScript :: FastAPI + Python :: PyTorch
+[ OK ] loading mission .......................... software_should_work_where_its_needed_most()
+[ OK ] specialism ............................... intelligent_systems_under_hardware_constraints()
 [ OK ] runtime .................................. CPU-first :: offline-first :: edge-native
+[ OK ] availability ............................. full_time_roles :: client_projects :: open_source
 
 > system online. awaiting instructions_
 ```
@@ -56,17 +59,18 @@ $ ./initialize --operator johnson_christopher_hassan
 ```yaml
 operator:   Johnson Christopher Hassan
 callsign:   johnson2006christopher
-class:      Software & AI Engineer
-subclass:   Agentic Systems / Edge AI
+class:      Full-Stack Software & AI Engineer
+subclass:   Web Platforms / Agentic Systems / Edge AI
 base:       Mbeya, Tanzania [UTC+3]
 org:        BLECA SmartLabs
             Neurotech Africa
-            Next Gen Lab [founder]
-focus:      - CPU-first computer vision
-            - offline-first inference
-            - autonomous agent pipelines
-            - grounded RAG systems
-status:     ONLINE // open to collaboration
+builds:     - Next.js / React / TypeScript front ends
+            - FastAPI / async Python back ends
+            - agentic + grounded RAG pipelines
+            - CPU-first, offline-first vision engines
+passion:    intelligent systems that run under
+            severe hardware constraints
+status:     ONLINE // roles, freelance, open source
 ```
 
 <div align="center">
@@ -105,14 +109,16 @@ status:     ONLINE // open to collaboration
 
 | | |
 | :--- | :--- |
-| **Title** | Software & AI Engineer — BLECA SmartLabs · AI Engineering Intern — Neurotech Africa |
-| **Founder** | Next Gen Lab (technical founder) |
+| **Title** | Full-Stack Software & AI Engineer |
+| **Currently** | Software & AI Engineer — BLECA SmartLabs · AI Engineering Intern — Neurotech Africa |
 | **Studying** | Computer Engineering, MUST — Mbeya, Tanzania |
-| **Specialism** | Edge AI, CPU-first computer vision, agentic LLM pipelines, async backends |
+| **Front end** | Next.js · React · TypeScript · Tailwind · Framer Motion · shadcn/ui · local-first PWAs |
+| **Back end** | FastAPI · async Python · PostgreSQL · Redis · Celery · Docker |
+| **Specialism** | Edge AI, CPU-first computer vision, agentic LLM pipelines — intelligent systems under severe hardware constraints |
 | **Shipped** | [`adaptshot`](https://pypi.org/project/adaptshot/) on PyPI · Legal Guard AI · ExamGuard AI · AgroScan+ |
 | **Recognition** | 🥇 Gold Prize, SMART 2026 (South Korea) · 🏆 Best Project, Projekt Inspire 2023 |
 | **Timezone** | UTC+3 (EAT) — overlaps a full working day with EU, half with US East |
-| **Status** | Open to collaboration, internships, and remote engineering roles |
+| **Status** | Open to **full-time engineering roles**, **remote freelance / client projects**, and **open-source collaboration** |
 
 **Fastest path:** [portfolio](https://johnsoncv.netlify.app/) → [AdaptShot repo](https://github.com/johnson2006christopher/adaptshot) → [email me](mailto:johnson2006christopher@gmail.com)
 
@@ -123,16 +129,19 @@ status:     ONLINE // open to collaboration
 
 <br/>
 
-Three opinions that shape everything I build:
+Four opinions that shape everything I build:
 
 **1. CPU-first is a feature, not a compromise.**
 A model that needs an A100 cannot run in a Tanzanian classroom, clinic, or farm. AdaptShot does few-shot vision under **250MB RAM** with no GPU — that constraint is the product requirement, not a limitation to apologise for.
 
 **2. Uncertainty must be a first-class output.**
-Every pipeline I ship has a confidence gate. A system that answers *"I don't know — escalate to a human"* is worth more in a high-stakes setting than one that guesses confidently and is wrong. See [`04 SYSTEM.ARCHITECTURE`](#arch).
+Every pipeline I ship has a confidence gate. A system that answers *"I don't know — escalate to a human"* is worth more in a high-stakes setting than one that guesses confidently and is wrong. See [`05 SYSTEM.ARCHITECTURE`](#arch).
 
 **3. Offline-first changes your whole architecture.**
 Local inference, local vector store, queued sync when connectivity returns. ExamGuard AI runs YOLOv8 on-device and cuts bandwidth by **98%** (< 15MB/hr) — that only works if the network is treated as optional from day one.
+
+**4. The front end is part of the system, not a skin over it.**
+I build the whole thing: Next.js + TypeScript + Tailwind on top, FastAPI and PostgreSQL underneath, one person owning the contract between them. Where the connection is unreliable that means a **local-first PWA** — IndexedDB-backed state, optimistic UI, a queued sync that reconciles when the network returns — so the interface never freezes waiting on a request that may never land. Motion (Framer Motion) and component discipline (shadcn/ui) are how a constrained app still feels finished.
 
 **Read the code:** [AdaptShot](https://github.com/johnson2006christopher/adaptshot) · [Legal Guard AI](https://github.com/johnson2006christopher/legal_guard_ai)
 
@@ -143,7 +152,7 @@ Local inference, local vector store, queued sync when connectivity returns. Exam
 
 <br/>
 
-I take on a small number of builds through **Next Gen Lab**. Full service list in [`08 NEXT.GEN.LAB`](#hire).
+I'm an independent engineer taking on a small number of client builds. Full service list in [`08 AVAILABILITY`](#hire).
 
 **How an engagement runs:**
 
@@ -156,7 +165,7 @@ $ ./engage --client you
 [ 4 ] handover ........... source, docs, deploy runbook, 2 weeks support
 ```
 
-**Best fit:** agentic AI pipelines · private document RAG · full-stack AI MVPs · backend performance rescue · edge/offline deployments.
+**Best fit:** full-stack AI web apps · private document RAG · agentic workflows · backend latency rescue · CPU-first / edge deployments · modern frontend engineering.
 
 [![Start a project](https://img.shields.io/badge/📨_START_A_PROJECT-000000?style=for-the-badge&labelColor=000000&color=00F0FF)](https://github.com/johnson2006christopher/johnson2006christopher/issues/new?title=%5BCOLLAB%5D%20Project%20proposal&body=**What%20you%27re%20building%3A**%0A%0A**Current%20stack%3A**%0A%0A**Timeline%3A**%0A%0A**What%20you%20need%20from%20me%3A**%0A)
 [![Email](https://img.shields.io/badge/📧_EMAIL_DIRECT-000000?style=for-the-badge&labelColor=000000&color=A78BFA)](mailto:johnson2006christopher@gmail.com)
@@ -193,7 +202,7 @@ Where to start on this page → [`04 SKILL.MATRIX`](#skills) is roughly the orde
 
 </div>
 
-> **74 technologies across 9 domains.** Tower height above = tools per domain. Expand any block for the full list.
+> **75 technologies across 9 domains.** Tower height above = tools per domain. Expand any block for the full list.
 
 <details open>
 <summary><b>◈ &nbsp;CORE LANGUAGES</b> &nbsp;<code>7</code></summary>
@@ -288,7 +297,7 @@ Where to start on this page → [`04 SKILL.MATRIX`](#skills) is roughly the orde
 </details>
 
 <details>
-<summary><b>◈ &nbsp;FRONTEND</b> &nbsp;<code>8</code></summary>
+<summary><b>◈ &nbsp;FRONTEND · FULL-STACK WEB</b> &nbsp;<code>9</code></summary>
 
 <br/>
 
@@ -298,6 +307,7 @@ Where to start on this page → [`04 SKILL.MATRIX`](#skills) is roughly the orde
 ![Vite](https://img.shields.io/badge/-Vite-000000?style=for-the-badge&logo=vite&logoColor=00F0FF)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=00F0FF)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=00F0FF)
+![PWA](https://img.shields.io/badge/-Local--First_PWAs-000000?style=for-the-badge&logo=pwa&logoColor=00F0FF)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=00F0FF)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=00F0FF)
 
@@ -498,21 +508,34 @@ Both are grounded through a lightweight RAG pipeline (**ChromaDB + FastAPI**) ov
 
 <a name="hire"></a>
 
-## `◤ 08 ◢` NEXT.GEN.LAB // CONSULTING
+## `◤ 08 ◢` AVAILABILITY // WHAT I BUILD FOR CLIENTS
 
 <div align="center">
 
-| SERVICE | DELIVERABLE |
-| :--- | :--- |
-| 🤖 Autonomous AI Agents | Custom LangGraph pipelines wired through FastAPI |
-| 📄 Private Document RAG | Secure enterprise PDF search — pgvector · ChromaDB · Next.js |
-| 🚀 Full-Stack AI SaaS MVPs | Idea-to-launch — FastAPI · Next.js · Redis · Stripe |
-| ⚡ Backend Performance Audits | Latency reduction, async profiling, memory leak fixes |
-| 🎓 Corporate Workshops | Agentic AI, async architecture, system design training |
-
-[![Start a project](https://img.shields.io/badge/📨_START_A_PROJECT-000000?style=for-the-badge&labelColor=000000&color=00F0FF)](https://github.com/johnson2006christopher/johnson2006christopher/issues/new?title=%5BCOLLAB%5D%20Project%20proposal&body=**What%20you%27re%20building%3A**%0A%0A**Current%20stack%3A**%0A%0A**Timeline%3A**%0A%0A**What%20you%20need%20from%20me%3A**%0A)
+<img src="https://img.shields.io/badge/OPEN_TO-FULL--TIME_ENGINEERING_ROLES-000000?style=for-the-badge&labelColor=000000&color=00F0FF"/>
+<img src="https://img.shields.io/badge/OPEN_TO-REMOTE_FREELANCE_%2F_CLIENT_WORK-000000?style=for-the-badge&labelColor=000000&color=A78BFA"/>
+<img src="https://img.shields.io/badge/OPEN_TO-OPEN--SOURCE_COLLABORATION-000000?style=for-the-badge&labelColor=000000&color=00F0FF"/>
 
 </div>
+
+> I work as an **independent engineer** — hired directly, no agency in between. Five things I deliver end to end:
+
+<div align="center">
+
+| SERVICE | WHAT YOU GET | STACK |
+| :--- | :--- | :--- |
+| 🧩 **Full-Stack AI Web Applications** | A complete product — interface, API, model, deploy — shipped by one engineer | Next.js · FastAPI · LLMs / vision |
+| 📄 **Private Document RAG & Agentic Workflows** | Your documents, searchable and grounded, without shipping them to a third party | LangGraph · pgvector · ChromaDB |
+| ⚡ **High-Performance Async Backends & Latency Audits** | A profiled, measured before/after — slow endpoints found and fixed, not guessed at | FastAPI · Celery · Redis |
+| 🔌 **CPU-First / Edge AI Deployment** | Vision and inference that runs offline on the hardware you already own | Offline vision models · lightweight engines |
+| 📊 **Interactive Dashboards & Modern Frontend Engineering** | Fast, animated, accessible interfaces that hold up on a bad connection | React · TypeScript · Tailwind · Framer Motion |
+
+[![Start a project](https://img.shields.io/badge/📨_START_A_PROJECT-000000?style=for-the-badge&labelColor=000000&color=00F0FF)](https://github.com/johnson2006christopher/johnson2006christopher/issues/new?title=%5BCOLLAB%5D%20Project%20proposal&body=**What%20you%27re%20building%3A**%0A%0A**Current%20stack%3A**%0A%0A**Timeline%3A**%0A%0A**What%20you%20need%20from%20me%3A**%0A)
+[![Email](https://img.shields.io/badge/📧_EMAIL_DIRECT-000000?style=for-the-badge&labelColor=000000&color=A78BFA)](mailto:johnson2006christopher@gmail.com)
+
+</div>
+
+<div align="right"><a href="#top">↑ back to top</a></div>
 
 <br/>
 
@@ -592,7 +615,11 @@ Yes, and it's still the right call. A GPU-dependent model that can't be deployed
 
 **Are you available for work?**
 
-Open to collaboration, remote engineering roles, and a limited number of Next Gen Lab builds. Fastest route is the 📨 button above or [email](mailto:johnson2006christopher@gmail.com).
+Yes — full-time engineering roles, remote freelance / client projects, and open-source collaboration. Fastest route is the 📨 button above or [email](mailto:johnson2006christopher@gmail.com).
+
+**Are you a frontend engineer or an AI engineer?**
+
+Both, deliberately. I ship the interface *and* the engine behind it — Next.js, React, TypeScript and Tailwind on top; FastAPI, PostgreSQL and the model layer underneath. Edge AI and CPU-first vision are what I go deep on for fun; full-stack delivery is what I do every day.
 
 **What timezone do you work in?**
 
