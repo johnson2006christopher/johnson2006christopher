@@ -44,6 +44,14 @@ GitHub allows very little interaction; these are the pieces that actually work a
 
 Awards, job titles, impact metrics, and project claims in this README are real credentials. Do not invent, embellish, or adjust them — add or change these only from information the user provides. The skill badge list has been pruned by hand to what is actually used; do not re-add technologies that were removed.
 
+**Positioning (set by the user, do not drift):**
+
+- The headline identity is **Full-Stack Software & AI Engineer** — front end and back end carry equal weight. Edge AI, CPU-first vision, and constrained-system work are framed as the specialised passion, not the whole job.
+- "Next Gen Lab" was removed from the profile entirely (founder title, section heading, service list, FAQ). Do not reintroduce it. Client work is framed as **johnson working directly as an independent engineer**.
+- Availability is the three-part line: full-time engineering roles, remote freelance / client projects, open-source collaboration. `08 AVAILABILITY` lists the five client services and must stay aligned with it.
+- Roles that stay: Software & AI Engineer @ BLECA SmartLabs · Software & AI Engineering Intern @ Neurotech Africa · Computer Engineering @ MUST, Tanzania.
+- **The profile-views badge is load-bearing.** Keep `<img src="https://komarev.com/ghpvc/?username=johnson2006christopher&color=0F0C29&style=for-the-badge&label=SCANS" alt="Profile views"/>` byte-for-byte — editing the URL or the username resets the counter. It must stay an `<img>` tag, not Markdown (see the HTML-block rule above).
+
 ## Workflow
 
 Edits are committed and pushed directly to `main`; no branch or PR for README changes. External badge and link URLs rot silently (renamed repos, dropped PyPI packages) — run `/check-badges` after any edit that touches links. `github-profile-summary-cards` intermittently returns a rate-limit error card; that is service-side and not a broken URL.
