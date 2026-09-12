@@ -14,6 +14,7 @@
 [![Systems](https://img.shields.io/badge/▣_SYSTEMS-000000?style=for-the-badge&labelColor=000000&color=A78BFA)](#systems)
 [![Hire](https://img.shields.io/badge/◭_HIRE_ME-000000?style=for-the-badge&labelColor=000000&color=00F0FF)](#hire)
 [![Uplink](https://img.shields.io/badge/⬢_UPLINK-000000?style=for-the-badge&labelColor=000000&color=A78BFA)](#uplink)
+[![committers.top badge](https://user-badge.committers.top/tanzania_private/johnson2006christopher.svg)](https://user-badge.committers.top/tanzania_private/johnson2006christopher)
 
 </div>
 
